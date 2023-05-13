@@ -1124,7 +1124,7 @@ p {
     transition: all 0.4s linear;
 }
 .about-event ul li .singel-event a:hover h4{
-    color: #ffc600;
+    color: #f83838;
 }
 
 
@@ -1861,7 +1861,7 @@ p {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(7, 41, 77, 0.6);
+    background-color: rgba(0, 0, 0, 0.6);
     border-radius: 5px;
 }
 .category-2-items .singel-items .items-cont {
